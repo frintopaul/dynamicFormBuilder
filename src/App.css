@@ -1,0 +1,43 @@
+body{
+  background-color: #dddddd;
+  width: 100%;
+  height: 100%;
+}
+.container{
+  width: 980px;
+  margin:0 auto;
+}
+.mainHead{
+  font-size: 25px;
+  font-weight: bold;
+}
+.whiteBox{
+  width: 100%;
+  background-color: #ffffff;
+  border-radius: 5px;
+  padding:20px;
+  margin:20px 0px;
+  box-sizing: border-box;
+}
+
+.anfc_buttonWrap{
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: right;
+}
+.anfc_button{
+  padding: 10px 10px;
+  text-align: center;
+  background-color: #0075be;
+  color: #fff;
+  font-style: normal;
+  font-size: 15px;
+  border: solid 1px #ddd;
+  border-radius: 5px;
+}
+.input_full{
+  width: 100%;
+}
+
